@@ -1,6 +1,6 @@
 # API REST de cadastramento 
 <h2>API para cadastramento de pessoas.<br>
-Nesse projeto usamos o Spring Boot versão 26.3 e as dependências:
+##Nesse projeto usamos o Spring Boot versão 26.3 e as dependências:
 <h3>Lombok;
 <h3>Spring Web;
 <h3>H2 Database;
